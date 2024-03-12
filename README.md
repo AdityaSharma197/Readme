@@ -68,12 +68,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/codetributer/codetributer/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://imgflip.com/i/812nlv"  />
-</div>
 
 ###
